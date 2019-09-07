@@ -1,5 +1,3 @@
-# UTD_ML_Project-Assignment-III
-
 ## Topic: K-means clustering on images
 
 ### To run this program please provide the input paramters in the below format
